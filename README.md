@@ -21,8 +21,8 @@ This contains:
   2. **[Getting Started in Rust Playlist](https://www.youtube.com/playlist?list=PLaNMjfNerE_44_CGnsO9E32XwkaFW2CID)**
 
 # How to Get started with ngyn-rs
-  [Docs](https://ngyn.rs/docs/)
-  Youtube: Coming Soon
+  - [Docs](https://ngyn.rs/docs/)
+ -  Youtube: Coming Soon
     
 
 # Example and boilerplate codes
