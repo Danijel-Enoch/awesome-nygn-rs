@@ -8,6 +8,9 @@ This contains:
 
 
 # Materials to get started with rust
+## Repos
+## Books
+## Videos
 
 # How to Get started with ngyn-rs
 
